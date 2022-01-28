@@ -3,7 +3,6 @@
 <p align="center"><h1 align="center"><b> MAMBA MANAGER</b></h1></p>
 <p align="center">
    <a href="https://t.me/MAMBA_NETWORK">
-      <img src="MAMBA/red.jpg" border="1px" alt="astro">
       </a>
       <br>
    <b>MAMBA MANAGER</b><br>
